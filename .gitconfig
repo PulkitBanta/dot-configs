@@ -1,0 +1,15 @@
+# This is Git's per-user configuration file.
+[include]
+    path = .gitconfig-personal
+
+[includeIf "gitdir:~/Documents/medly/"]
+    path = .gitconfig-medly
+
+[includeIf "gitdir:~/Documents/tango/"]
+    path = .gitconfig-tango
+    
+[init]
+    defaultBranch = main
+    
+[commit]
+    gpgsign = true
