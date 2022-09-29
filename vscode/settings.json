@@ -1,0 +1,44 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 14,
+    "editor.fontFamily": "Cascadia Code PL",
+    "editor.tabCompletion": "on",
+    "terminal.integrated.fontFamily": "Cascadia Code PL",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.linkedEditing": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.compactFolders": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "prettier.tabWidth": 4,
+    "prettier.trailingComma": "none",
+    "thunder-client.codeSnippetLanguage": "cs-httpclient",
+    "cSpell.userWords": ["banta", "chitkara", "pulkit"],
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "cSpell.ignoreWords": ["medly"],
+    "editor.bracketPairColorization.enabled": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.suggestSmartCommit": false,
+    "git.mergeEditor": false,
+    "workbench.sideBar.location": "right",
+    "editor.formatOnSave": true,
+    "workbench.localHistory.enabled": false,
+    "merge-conflict.autoNavigateNextConflict.enabled": true,
+    "window.zoomLevel": -1
+}
